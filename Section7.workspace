@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section7" Database="" Version="10.0.0">
+  <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="HeapSort" Path="HeapSort/HeapSort.project" Active="No"/>
+  <Project Name="QuickSort" Path="QuickSort/QuickSort.project" Active="No"/>
+  <Project Name="SumOfNNaturalNumberUsingRecursion" Path="SumOfNNaturalNumberUsingRecursion/SumOfNNaturalNumberUsingRecursion.project" Active="No"/>
+  <Project Name="FactorialUsingRecursion" Path="FactorialUsingRecursion/FactorialUsingRecursion.project" Active="No"/>
+  <Project Name="PowerUsingRecursion" Path="PowerUsingRecursion/PowerUsingRecursion.project" Active="No"/>
+  <Project Name="taylorusingrecursion" Path="taylorusingrecursion/taylorusingrecursion.project" Active="No"/>
+  <Project Name="nnumber" Path="nnumber/nnumber.project" Active="No"/>
+  <Project Name="nnumber2ndApproach" Path="nnumber2ndApproach/nnumber2ndApproach.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Arrays" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="HeapSort" ConfigName="Debug"/>
+      <Project Name="QuickSort" ConfigName="Debug"/>
+      <Project Name="SumOfNNaturalNumberUsingRecursion" ConfigName="Debug"/>
+      <Project Name="FactorialUsingRecursion" ConfigName="Debug"/>
+      <Project Name="PowerUsingRecursion" ConfigName="Debug"/>
+      <Project Name="taylorusingrecursion" ConfigName="Debug"/>
+      <Project Name="nnumber" ConfigName="Debug"/>
+      <Project Name="nnumber2ndApproach" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Arrays" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="HeapSort" ConfigName="Release"/>
+      <Project Name="QuickSort" ConfigName="Release"/>
+      <Project Name="SumOfNNaturalNumberUsingRecursion" ConfigName="Release"/>
+      <Project Name="FactorialUsingRecursion" ConfigName="Release"/>
+      <Project Name="PowerUsingRecursion" ConfigName="Release"/>
+      <Project Name="taylorusingrecursion" ConfigName="Release"/>
+      <Project Name="nnumber" ConfigName="Release"/>
+      <Project Name="nnumber2ndApproach" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
